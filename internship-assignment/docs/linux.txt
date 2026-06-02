@@ -1,0 +1,8 @@
+1. What is Linux?
+Linux is an open-source operating system that is known for its stability, security, and flexibility.
+It is commonly used in servers, cloud platforms, and development environments.
+
+2. Three commands learned?
+i.  mkdir : Creates a new directory.
+ii. cd : Moves from one directory to another.
+iii. ls : Displays the files and folders in the current directory.
